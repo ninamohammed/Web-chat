@@ -42,4 +42,9 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="959" alt="5" src="https://user-images.githubusercontent.com/103388162/186299449-6f747fd5-ea3a-47b4-833d-98f7d26433fb.png">
 
+* Here start writing the first word you expect the customer to start with.
+
+<img width="956" alt="6" src="https://user-images.githubusercontent.com/103388162/186302379-5e009c26-783e-4fd8-b103-210c732ee202.png">
+
+
 
