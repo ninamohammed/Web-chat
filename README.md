@@ -38,5 +38,8 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/103388162/186296426-fac18bb6-fa63-4935-a80e-4bf0190fc2a6.png">
 
+* Step Six Click on Action to start creating the dialogue you want:
+
+<img width="959" alt="5" src="https://user-images.githubusercontent.com/103388162/186299449-6f747fd5-ea3a-47b4-833d-98f7d26433fb.png">
 
 
