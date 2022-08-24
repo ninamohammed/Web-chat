@@ -50,7 +50,10 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="958" alt="7again" src="https://user-images.githubusercontent.com/103388162/186303170-1a724d96-dd22-4e75-acb9-da6391a02fa7.png">
 
-* in "1" Here I write the expected responses from Assistant to customers and "2"   :
+* in "1" Here I write the expected responses from Assistant to customers and "2" Here choose how customers would like to respond to the Assistant either with options or open text...etc. :
+
+<img width="959" alt="8" src="https://user-images.githubusercontent.com/103388162/186304598-1b1d969b-b335-4000-93ac-68e098aa39e8.png">
+
 
 
 
