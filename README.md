@@ -56,7 +56,7 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 * Here, choose the method that you want to be in the next step. For example, you want after this response to end the dialogue, so you choose end the action :
 
-<img width="812" alt="9" src="https://user-images.githubusercontent.com/103388162/186307656-bdc7ffd6-2050-4d85-9d0e-62e46b28dff6.png">
+<img width="812" alt="99" src="https://user-images.githubusercontent.com/103388162/186308839-d5cd4b63-28bb-4ac0-a508-864260e071b9.png">
 
 
 
