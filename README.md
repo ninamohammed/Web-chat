@@ -15,8 +15,6 @@
 ### How do we build a chatbot in IBM Watson Assistant ?
 
 * first step Create account in IBM Cloud:
-```
 
 <img width="951" alt="1مره" src="https://user-images.githubusercontent.com/103388162/186293881-8e086ed9-3c4f-47a1-ac1c-9605c31aa165.png">
 
-```
