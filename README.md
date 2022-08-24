@@ -46,7 +46,7 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="956" alt="6" src="https://user-images.githubusercontent.com/103388162/186302379-5e009c26-783e-4fd8-b103-210c732ee202.png">
 
-* Here, write more words people say at the beginning of their conversation:
+* Here, write more words people say at the beginning of their conversation then click on New step:
 
 <img width="958" alt="7again" src="https://user-images.githubusercontent.com/103388162/186303170-1a724d96-dd22-4e75-acb9-da6391a02fa7.png">
 
