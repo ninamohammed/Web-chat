@@ -32,7 +32,9 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/103388162/186296253-322f7021-b4bd-453c-90a6-f407c8412854.png">
 
 * Fifth step :
- 1. is add name to watso
+ 1. is add name to watson assistant .
+ 2. It's an optional option that you can make blank.
+ 3. It is to choose the language you want to speak with Watson Assistant.
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/103388162/186296426-fac18bb6-fa63-4935-a80e-4bf0190fc2a6.png">
 
