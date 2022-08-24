@@ -58,6 +58,11 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="812" alt="99" src="https://user-images.githubusercontent.com/103388162/186308839-d5cd4b63-28bb-4ac0-a508-864260e071b9.png">
 
+* To make the chatbot on your web page, click on home then preview and then click on customize web chat:
+
+<img width="912" alt="حححح" src="https://user-images.githubusercontent.com/103388162/186321089-12882e76-2bfc-41c8-b6f6-aa46dc0605ce.png">
+
+
 ------------------------------------------------------------------------------------------
 
 * ### The result:
