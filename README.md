@@ -62,7 +62,7 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="912" alt="حححح" src="https://user-images.githubusercontent.com/103388162/186321089-12882e76-2bfc-41c8-b6f6-aa46dc0605ce.png">
 
-* From the include, copy the code shown in front of you and put it in your html code in the body tag at the bottom after the codes written inside the body tag:
+* From the embed, copy the code shown in front of you and put it in your html code in the body tag at the bottom after the codes written inside the body tag:
 
 <img width="937" alt="dd" src="https://user-images.githubusercontent.com/103388162/186323331-81995259-438e-40ec-b47a-51cc53c89488.png">
 
