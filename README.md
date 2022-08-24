@@ -23,4 +23,8 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="950" alt="1" src="https://user-images.githubusercontent.com/103388162/186294506-de031b2f-3bb3-485b-b4f6-b653b3356d4d.png">
 
+* The third step :
+
+<img width="953" alt="22" src="https://user-images.githubusercontent.com/103388162/186296072-5b7a7e65-d8e4-4476-9655-55f4a7986119.png">
+
 
