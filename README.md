@@ -62,6 +62,10 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 * ### The result:
 
+<img width="956" alt="chatbot" src="https://user-images.githubusercontent.com/103388162/186311178-cf14929e-b4a3-48df-927b-0c850c1ce22f.png">
+
+<img width="959" alt="chaty" src="https://user-images.githubusercontent.com/103388162/186311191-a623ee59-f657-4fc7-91d6-ccdf1b05621f.png">
+
 
 
 
