@@ -50,5 +50,7 @@ __To enter the site -->  https://cloud.ibm.com/registration/free__
 
 <img width="958" alt="7again" src="https://user-images.githubusercontent.com/103388162/186303170-1a724d96-dd22-4e75-acb9-da6391a02fa7.png">
 
+* in "1" Here I write the expected responses from Assistant to customers and "2"   :
+
 
 
